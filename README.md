@@ -2,3 +2,4 @@
 ## checking
 ![image](https://github.com/si1ent-le/Linux-/blob/master/check.jpg)
 
+## 持续更新....
